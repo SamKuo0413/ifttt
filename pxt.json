@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Obloq_http": "github:lioujj/pxt-obloq_http#master"
     },
     "files": [
         "main.blocks",
